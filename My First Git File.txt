@@ -8,3 +8,8 @@ Today I learnt how to add commit
 “Inspiration does exist, but it must find you working.” 
 
 CHANGE THE LIFE FOR THE BETTER
+
+1. git init
+2. git add .
+3. git commit -m"naming"
+4. git push -u origin naming
