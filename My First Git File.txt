@@ -7,9 +7,20 @@ Today I learnt how to add commit
 
 “Inspiration does exist, but it must find you working.” 
 
+pwd - print work directory
+ls - list of all directory inside
+cd - change directory
+cd .. back to previous direction
+cd ~ bring to home direction
+clear
+exit
+
+
+
 CHANGE THE LIFE FOR THE BETTER
 
 1. git init
+1.1 git status 
 2. git add .
 3. git commit -m"naming"
 4. git push -u origin naming
